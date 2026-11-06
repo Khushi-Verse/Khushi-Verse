@@ -91,9 +91,9 @@ I believe in learning by building, staying curious, and improving a little every
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Verse&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=FFFFFF&area=true&area_color=FCE4EC&title_color=EF93C4&border_color=0d1117&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Verse"
+    alt="GitHub Contribution Activity"
     width="95%"
-    alt="Khushi's GitHub Contribution Activity"
   />
 </p>
 
