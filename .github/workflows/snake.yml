@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: Khushi-Verse
           outputs: |
-                     "dist/github-contribution-grid-snake.svg?color_snake=#FF69B4&color_dots=#FCE4EC,#F8BBD0,#EF93C4,#EC80B5,#C44587"
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23FCE4EC,%23F8BBD0,%23EF93C4,%23EC80B5,%23C44587
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
