@@ -65,8 +65,8 @@
 
 <p align="center">
   <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Khushi-Verse&show_icons=true&hide=stars&hide_border=true&bg_color=ffffff&title_color=EF93C4&icon_color=FF69B4&text_color=555555"
-    alt="GitHub Stats" />
+  src="https://github-readme-stats-iota-ten-42.vercel.app/api?username=Khushi-Verse&show_icons=true&hide=stars&hide_border=true&bg_color=ffffff&title_color=EF93C4&icon_color=FF69B4&text_color=555555"
+  alt="GitHub Stats" />
 
   <img width="49%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Verse&hide_border=true&background=FFFFFF&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=FF69B4"
