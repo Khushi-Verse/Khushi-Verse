@@ -87,12 +87,14 @@ I believe in learning by building, staying curious, and improving a little every
     alt="GitHub Streak" />
 </p>
 
-<h3 align="center">📈 Contribution Activity</h3>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Verse&bg_color=ffffff&color=EF93C4&line=FF69B4&point=EF93C4&area=true&hide_border=true"
-    alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Verse&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=FFFFFF&area=true&area_color=FCE4EC&title_color=EF93C4&border_color=0d1117&hide_border=true"
+    width="95%"
+    alt="Khushi's GitHub Contribution Activity"
+  />
 </p>
 
 ---
