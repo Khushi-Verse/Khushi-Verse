@@ -1,4 +1,4 @@
-<!-- ==================== BANNER ==================== -->
+ <!-- ==================== BANNER ==================== -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -31,31 +31,17 @@
 
 <h2 align="center">✨ About Me</h2>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+<p align="center">
+  I'm a software developer who enjoys exploring technology, solving problems, and turning ideas into practical applications.
+</p>
 
-I'm a software developer who enjoys exploring technology, solving problems, and turning ideas into practical applications.
-
-- 💻 Exploring software and full-stack development.
-- 🌱 Continuously learning and experimenting with new technologies.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🚀 Building projects that solve real-world problems.
-- 📝 A writer at heart, currently exploring blogging.
-- 🤝 Interested in hackathons, collaboration, and meaningful projects.
-
-I believe in learning by building, staying curious, and improving a little every day.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="YOUR_PROFILE_IMAGE_URL"
-     width="220"
-     alt="Khushi Singh" />
-
-</td>
-</tr>
-</table>
+- 💻 Exploring software development and building full-stack applications.
+- 🌱 Continuously learning, experimenting, and improving my development skills.
+- 🧠 Practicing Data Structures and Algorithms to strengthen my problem-solving abilities.
+- 🚀 Interested in building useful projects that address real-world challenges.
+- 📝 A writer at heart, exploring blogging and creative ways to express ideas.
+- 🤝 Enthusiastic about hackathons, teamwork, and collaborative development.
+- ✨ I believe in learning by building, staying curious, and making consistent progress.
 
 ---
 
@@ -87,16 +73,6 @@ I believe in learning by building, staying curious, and improving a little every
     alt="GitHub Streak" />
 </p>
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-Verse"
-    alt="GitHub Contribution Activity"
-    width="95%"
-  />
-</p>
-
 ---
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
@@ -111,8 +87,7 @@ I believe in learning by building, staying curious, and improving a little every
   />
 </p>
 
-
-
+---
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
@@ -129,13 +104,13 @@ I believe in learning by building, staying curious, and improving a little every
 <h3 align="center">🔐 VaultX</h3>
 
 <p align="center">
-  <a href="YOUR_VAULTX_REPOSITORY_URL">
+  <a href="https://github.com/Khushi-Verse/VaultX">
     <img src="https://img.shields.io/badge/View%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  YOUR_VAULTX_PROJECT_DESCRIPTION
+  A password manager designed to help users securely manage and organize their passwords.
 </p>
 
 </td>
@@ -145,7 +120,7 @@ I believe in learning by building, staying curious, and improving a little every
 <h3 align="center">📁 FileWise</h3>
 
 <p align="center">
-  <a href="YOUR_FILEWISE_REPOSITORY_URL">
+  <a href="https://github.com/Khushi-Verse/FileWise">
     <img src="https://img.shields.io/badge/View%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -160,32 +135,32 @@ I believe in learning by building, staying curious, and improving a little every
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔍 Anveshak</h3>
+<h3 align="center">⚖️ Anveshak</h3>
 
 <p align="center">
-  <a href="YOUR_ANVESHAK_REPOSITORY_URL">
+  <a href="https://github.com/Khushi-Verse/anveshak-f">
     <img src="https://img.shields.io/badge/View%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  YOUR_ANVESHAK_PROJECT_DESCRIPTION
+  A Smart India Hackathon project focused on developing a digital legal investigation system to support the organization and management of legal investigation workflows.
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 Mediverse</h3>
+<h3 align="center">📰 Factlyze</h3>
 
 <p align="center">
-  <a href="YOUR_MEDIVERSE_REPOSITORY_URL">
+  <a href="https://github.com/Khushi-Verse/Factlyze">
     <img src="https://img.shields.io/badge/View%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  A healthcare-focused application designed to make healthcare services and emergency response more accessible.
+  A news analysis website that explores emotional tone, media bias, clickbait, and narrative patterns to help readers look beyond the headlines.
 </p>
 
 </td>
@@ -243,18 +218,3 @@ I believe in learning by building, staying curious, and improving a little every
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=120&section=footer" />
 </p>
-
-<!--
-**Khushi-Verse/Khushi-Verse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
