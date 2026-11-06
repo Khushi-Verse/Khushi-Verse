@@ -73,6 +73,15 @@
     alt="GitHub Streak" />
 </p>
 
+<h2 align="center">📈 Contribution Activity</h2>
+<p align="center">
+  <img
+    src="https://khushi-pink-activity-graph.vercel.app/graph?username=Khushi-Verse"
+    alt="GitHub Contribution Activity"
+    width="95%"
+  />
+</p>
+
 ---
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
