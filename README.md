@@ -102,53 +102,15 @@ I believe in learning by building, staying curious, and improving a little every
 <h2 align="center">🐍 Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Khushi-Verse/Khushi-Verse/output/github-contribution-grid-snake.svg"
-       alt="Contribution Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/Khushi-Verse/Khushi-Verse/output/github-contribution-grid-snake.svg"
+    alt="Khushi's GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
-<!--
-To enable the contribution snake:
 
-1. Create a .github/workflows directory in your profile repository.
-2. Create a file named snake.yml inside it.
-3. Add the following workflow:
 
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Khushi-Verse
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-4. Go to Repository Settings → Actions → General.
-5. Enable read and write permissions for workflows.
-6. Run the workflow once from the Actions tab.
--->
-
----
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
