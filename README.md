@@ -13,7 +13,7 @@
 
 <h1 align="center">Hey there, I'm Khushi Singh 👋</h1>
 
-<h3 align="center">Software Developer | Problem Solver | Writer</h3>
+<h3 align="center">Software Developer | Building Meaningful Projects | Creative Thinker & Writer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&lines=Building+things+with+code+%F0%9F%92%BB;Learning%2C+building%2C+and+growing+every+day;Exploring+ideas+through+technology;Writing+and+exploring+the+world+of+blogs" alt="Typing SVG" />
